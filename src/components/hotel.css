@@ -1,0 +1,23 @@
+.hotel {
+  font-family: Tahoma, Geneva, sans-serif;
+}
+.hotel h1 {
+  color: tomato;
+}
+.hotel-description {
+  color: #343355;
+}
+.hotel-rating {
+  margin: 2px 0 10px 0;
+}
+.hotel-rating__score {
+  color: goldenrod;
+}
+.hotel-rating__caption {
+  color: gray;
+}
+.hotel-address {
+  display: block;
+  margin: 8px 0;
+  color: tomato;
+}
